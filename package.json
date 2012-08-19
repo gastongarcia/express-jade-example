@@ -1,9 +1,9 @@
 {
-	"name":"simple-site",
-	"description":"the most basic hello world app",
+	"name":"express-jade-examples",
+	"description":"very basic express and jade examples",
 	"version":"0.0.1",
 	"dependencies":{
-		"express":"3.x",
+		"express":"3.0.0rc3",
 		"jade":"0.27.2"
 	},
   	"engines": {

@@ -1,0 +1,13 @@
+{
+	"name":"simple-site",
+	"description":"the most basic hello world app",
+	"version":"0.0.1",
+	"dependencies":{
+		"express":"3.x",
+		"jade":"0.27.2"
+	},
+  	"engines": {
+    	"node": "0.8.x",
+    	"npm": "1.1.x"
+  	}
+}
